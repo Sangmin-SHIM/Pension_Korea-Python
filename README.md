@@ -1,11 +1,8 @@
 # Pension_Korea-Python
 
 
-C'est un calculator pour la pension aux gens à partir de 60 ans. En Corée du sud, à partir de 60 ans on a le droit d'être privilégiés de recevoir la pension selon leur salaire. 
-
-Si on repousse l'âge pour en avoir (tout simplement de 60 ans à 65 ans par example) , on touchera plus d'argent mensuellement. Ce calculator permet de faire savoir à partir de quel âge on peut recevoir le plus (seuil de rentabilité).
-
-Cet application est créé par Python
+En Corée du Sud les personnes âgées de 60 ans et plus peuvent bénéficier de leurs retraites, le montant dépend de leurs salaires antérieures. 
+J'ai réalisé une application avec Python qui permet de calculer le meilleur taux de rentabilité de leurs pensions. Par exemple plis la personne repousse son départ en retraite, plus sa pension mensuelle sera élevée. C'est donc un moyen simple de connaître le montant bénéfique de sa futur retraite.
 
 <h3>(1) Entrer les données</h3>
 
